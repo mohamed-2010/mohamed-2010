@@ -1,16 +1,77 @@
-## Hi there 👋
+<!-- Profile README for mohamed-2010 -->
 
-<!--
-**mohamed-2010/mohamed-2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hi, I'm Mohamed Ahmed</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  💡 <b>Mobile Developer | Flutter & Kotlin | Backend (Laravel & Firebase)</b><br>
+  I build cross-platform mobile applications with clean architecture, optimized performance, and seamless user experiences.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 🧠 Passionate about creating scalable and user-focused mobile apps.
+- 💻 Experienced in **Flutter**, **Kotlin**, **Laravel**, **Firebase**, and **API Integration**.
+- 🔭 Currently working on **POS** and **Multi-Vendor Marketplace** systems.
+- 🌱 Always learning new technologies to level up my skills.
+- 💬 Ask me about **mobile app architecture**, **state management**, and **app optimization**.
+- ⚡ Fun fact: *I create bugs… but I’m also great at fixing them 😄*
+
+---
+
+### 🧰 Tech Stack
+
+| Category | Technologies |
+|-----------|--------------|
+| **Languages** | Dart, Kotlin, PHP, JavaScript |
+| **Frameworks** | Flutter, Laravel |
+| **State Management** | Bloc, Riverpod, GetX, Provider |
+| **Backend & APIs** | REST APIs, Firebase, FCM, MQTT |
+| **Tools** | Git, GitHub, Postman, Firebase Console, Google Analytics, Facebook Pixel |
+
+---
+
+### 📱 Highlighted Projects
+
+| Project | Description | Tech |
+|----------|--------------|------|
+| [🚗 My Park](https://apps.apple.com/eg/app/my-park/id6443972624?l=ar) | Smart parking system for iOS & Android | Flutter |
+| [💳 Recharge J](https://play.google.com/store/apps/details?id=com.metafortech.recharge.rchargejouser) | Recharge & billing service app | Kotlin + Laravel |
+| [🛍️ Shop Top Suite](https://play.google.com/store/apps/details?id=com.metafortech.shoptopuser) | Multi-vendor marketplace (User, Store, Delivery) | Kotlin |
+| [🥗 Dietly](https://apps.apple.com/eg/app/dietly-q8/id6474549066) | Diet planning & tracking app | Flutter |
+| [🏠 Smart Home](#) | IoT-based home control with sensors & alerts | Flutter + Firebase |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-2010&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-2010&layout=compact&theme=tokyonight" height="160" />
+</p>
+
+---
+
+### 🏆 Achievements & Activity
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamed-2010&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  🌍 <a href="https://meta-infinity.org" target="_blank">Website</a> |
+  💼 <a href="https://linkedin.com/in/mohamed-ahmed-m2m" target="_blank">LinkedIn</a> |
+  📧 <a href="mailto:midoahmed4105@gmail.com">Email Me</a> |
+  🧑‍💻 <a href="https://github.com/mohamed-2010" target="_blank">GitHub</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=mohamed-2010.mohamed-2010" alt="visitors"/>
+  <br><br>
+  ⭐ <i>If you like my work, feel free to star my repositories!</i>
+</p>
