@@ -69,8 +69,8 @@
 ### 📫 Connect With Me
 
 <p align="center">
-  🌍 <a href="https://meta-infinity.org" target="_blank">Website</a> |
-  💼 <a href="https://linkedin.com/in/mohamed-ahmed-m2m" target="_blank">LinkedIn</a> |
+  🌍 <a href="https://codewithmind.tech" target="_blank">Website</a> |
+  💼 <a href="https://www.linkedin.com/in/mohamed-ahmed-7069a7207/" target="_blank">LinkedIn</a> |
   📧 <a href="mailto:midoahmed4105@gmail.com">Email Me</a> |
   🧑‍💻 <a href="https://github.com/mohamed-2010" target="_blank">GitHub</a>
 </p>
