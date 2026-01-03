@@ -4,7 +4,7 @@
 
 <p align="center">
   💡 <b>Mobile Developer | Flutter & Kotlin | Backend (Laravel & Firebase)</b><br>
-  I build cross-platform mobile applications with clean architecture, optimized performance, and seamless user experiences.
+  Also building secure macOS desktop apps using Swift, SwiftUI, and modern Apple APIs.
 </p>
 
 ---
@@ -16,7 +16,21 @@
 - 🌱 Always learning new technologies to level up my skills.
 - 💬 Ask me about **mobile app architecture**, **state management**, and **app optimization**.
 - ⚡ Fun fact: *I create bugs… but I’m also great at fixing them 😄*
+---
 
+### 🖥️ macOS & Swift Experience (Desktop Apps)
+
+- 🧑‍💻 Building **macOS desktop applications** using **Swift 5+, SwiftUI, and AppKit**
+- 🔐 Implementing **security-first features** such as:
+  - Secure local storage using **Keychain Services**
+  - Data encryption with **CryptoKit**
+- 🌐 Integrating macOS apps with backend systems using **async/await (REST APIs)**
+- 🧪 Writing **unit tests with XCTest**
+- 📦 Familiar with **sandboxing, app entitlements, and notarization-ready builds**
+
+**Featured macOS Project**
+- 🔐 **LinguaGuard** – Security-focused language detection & auto-correct macOS app
+- 
 ---
 
 ### 🧰 Tech Stack
@@ -28,6 +42,7 @@
 | **State Management** | Bloc, Riverpod, GetX, Provider |
 | **Backend & APIs** | REST APIs, Firebase, FCM, MQTT |
 | **Tools** | Git, GitHub, Postman, Firebase Console, Google Analytics, Facebook Pixel |
+| **Desktop** | Swift, SwiftUI, AppKit, macOS |
 
 ---
 
@@ -40,6 +55,7 @@
 | [🛍️ Shop Top Suite](https://play.google.com/store/apps/details?id=com.metafortech.shoptopuser) | Multi-vendor marketplace (User, Store, Delivery) | Kotlin |
 | [🥗 Dietly](https://apps.apple.com/eg/app/dietly-q8/id6474549066) | Diet planning & tracking app | Flutter |
 | [🏠 Smart Home](#) | IoT-based home control with sensors & alerts | Flutter + Firebase |
+| 🖥️ LinguaGuard (macOS) | Security-first language detection & auto-correct desktop app | Swift, SwiftUI |
 
 ---
 
