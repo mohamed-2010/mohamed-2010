@@ -59,15 +59,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-2010&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-2010&layout=compact&theme=tokyonight" height="160" />
-</p>
-
----
-
 ### 🏆 Achievements & Activity
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mohamed-2010&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
