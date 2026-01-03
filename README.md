@@ -87,7 +87,6 @@
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=mohamed-2010.mohamed-2010" alt="visitors"/>
   <br><br>
   ⭐ <i>If you like my work, feel free to star my repositories!</i>
 </p>
